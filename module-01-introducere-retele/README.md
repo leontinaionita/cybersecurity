@@ -189,18 +189,3 @@ poti folosi unelte de diagnostic (ping, traceroute, nslookup);
 
 poti crea o topologie simpla in Cisco Packet Tracer.
 
-yaml
-Copiază codul
-
----
-
-## 🟢 Cum aplici
-1. Deschizi fișierul `module-01-introducere-retele/README.md` în **VS Code** sau pe GitHub → **Edit**.
-2. Înlocuiești conținutul actual cu textul de mai sus.
-3. Salvezi fișierul.
-4. În terminal rulezi:
-```powershell
-git add module-01-introducere-retele/README.md
-git commit -m "Actualizat Modulul 1 cu subcapitole complete"
-git push
-Vrei să trecem apoi la crearea scheletelor pentru Modulele 2–6, ca să îți fie ușor să le completezi pe rând?
